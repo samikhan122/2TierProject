@@ -1,4 +1,5 @@
-🚀 AWS 2-Tier Infrastructure Project Using Terraform
+🚀 AWS 2-Tier Infrastructure 
+Project Using Terraform
 📌 Project Overview
 This project demonstrates the deployment of AWS infrastructure using Terraform (Infrastructure as Code).
 The infrastructure provisions an AWS Virtual Private Cloud (VPC) with two public subnets across different Availability Zones, two EC2 web server instances, and an Application Load Balancer (ALB) to distribute incoming HTTP traffic between the servers.
